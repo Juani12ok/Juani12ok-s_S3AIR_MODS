@@ -4,5 +4,3 @@ This repository, created for archival purposes among others, will keep all the m
 ***
 
 # Current GameBanana Mods, WIP's, etc.:
-
-[![Show Lives and Disable TIME when Infinite]("https://cdn.discordapp.com/embed/avatars/0.png")](https://gamebanana.com/mods/561987)
