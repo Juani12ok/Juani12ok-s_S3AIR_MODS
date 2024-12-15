@@ -6,3 +6,6 @@ This repository, created for archival purposes among others, will keep all the m
 # Current GameBanana Mods, WIP's, etc.:
 
 [![Show Lives and Disable TIME when Infinite](https://gamebanana.com/mods/embeddables/561987?type=large)](https://gamebanana.com/mods/561987)
+
+
+[![Sonic 3 GBA Edition](https://gamebanana.com/wips/embeddables/77822?type=large)](https://gamebanana.com/wips/77822)
