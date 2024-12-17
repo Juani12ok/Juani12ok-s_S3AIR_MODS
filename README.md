@@ -9,4 +9,4 @@ This repository, created for archival purposes among others, will keep all the m
 Actual Version: v1.2
 
 [![Sonic 3 GBA Edition](https://gamebanana.com/wips/embeddables/77822?type=large)](https://gamebanana.com/wips/77822)
-Status: ***Cancelled***
+Status: ***Canceled***
