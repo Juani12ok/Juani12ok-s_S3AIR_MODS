@@ -13,4 +13,4 @@ Status: ***Canceled***
 
 Actual Version: ***NULL***
 
-[![Error 404 - Not Found](https://about:blank)](gamebanana.com/error/404)
+[![Error 404 - Not Found](https://about:blank)](https://gamebanana.com/error/404)
