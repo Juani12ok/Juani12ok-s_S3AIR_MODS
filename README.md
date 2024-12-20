@@ -11,4 +11,4 @@ Actual Version: v1.2
 [![Sonic 3 GBA Edition](https://gamebanana.com/wips/embeddables/77822?type=large)](https://gamebanana.com/wips/77822)
 Status: ***Canceled***
 
-Actual Version: NULL
+Actual Version: ***NULL***
