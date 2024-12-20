@@ -1,5 +1,5 @@
 # Juani12ok-s_S3AIR_MODS
-This repository, created for archival purposes among others, will keep all the mods I'll make in case they get withheld or trashed. Here'll also be unpublished mods, alongside with modified mods.
+This repository, created for archival purposes among others, will keep all the mods I'll make in case they get withheld or trashed. Here'll also be unpublished mods, alongside with modified mods, originally made from other people.
 
 ***
 
@@ -10,3 +10,5 @@ Actual Version: v1.2
 
 [![Sonic 3 GBA Edition](https://gamebanana.com/wips/embeddables/77822?type=large)](https://gamebanana.com/wips/77822)
 Status: ***Canceled***
+
+Actual Version: NULL
