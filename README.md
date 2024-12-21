@@ -12,5 +12,3 @@ Actual Version: v1.2
 Status: ***Canceled***
 
 Actual Version: ***NULL***
-
-[![Error 404 - Not Found](https://about:blank)](https://gamebanana.com/error/404)
