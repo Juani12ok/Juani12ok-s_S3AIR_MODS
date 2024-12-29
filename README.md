@@ -13,5 +13,3 @@ Status: ***Canceled***
 
 [![Juani12ok's Frutiger Aero-styled Touch Overlay](https://gamebanana.com/mods/embeddables/563995?type=large)](https://gamebanana.com/mods/563995)
 Actual Version: v1.0
-
-[More](chrome://memory-exhaust/)
