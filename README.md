@@ -8,7 +8,7 @@ This repository, created for archival purposes among others, will keep all the m
 [![Show Lives and Disable TIME when Infinite](https://gamebanana.com/mods/embeddables/561987?type=large)](https://gamebanana.com/mods/561987)
 > ![Actual Version Badge](https://img.shields.io/badge/Version-1.2-green)
 > ![Mod Maintenance Badge](https://img.shields.io/badge/Maintenance-On%20Hold-yellow)
-> [![©](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](/Extras/CC/HUD/time-n-hud/CC.md)
+> [![©](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](/Extras/CC/HUD/time-n-hud/CC.md) <!--Copyright was needed because a russian person tried to sell my mod. Sorry. You can still use it tho. Check the "License" tab on the mod page to see what you can do, can't do, among others."-->
 
 [![Sonic 3 GBA Edition](https://gamebanana.com/wips/embeddables/77822?type=large)](https://gamebanana.com/wips/77822)
 > ![W.I.P Status](https://img.shields.io/badge/Status-Canceled-red)
