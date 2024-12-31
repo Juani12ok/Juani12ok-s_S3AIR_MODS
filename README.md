@@ -6,13 +6,15 @@ This repository, created for archival purposes among others, will keep all the m
 # Current GameBanana Mods, WIP's, etc.:
 
 [![Show Lives and Disable TIME when Infinite](https://gamebanana.com/mods/embeddables/561987?type=large)](https://gamebanana.com/mods/561987)
-> Actual Version: v1.2
+> ![Actual Version Badge](https://img.shields.io/badge/Version-1.2-green)
+> ![Mod Maintenance Badge](https://img.shields.io/badge/Maintenance-On%20Hold-yellow)
 
 [![Sonic 3 GBA Edition](https://gamebanana.com/wips/embeddables/77822?type=large)](https://gamebanana.com/wips/77822)
-> Status: ***Canceled***
+> ![W.I.P Status](https://img.shields.io/badge/Status-Canceled-red)
 
 [![Juani12ok's Frutiger Aero-styled Touch Overlay](https://gamebanana.com/mods/embeddables/563995?type=large)](https://gamebanana.com/mods/563995)
-> Actual Version: v1.0
+> ![Actual Version Badge](https://img.shields.io/badge/Version-1.0-green)
+> ![Mod Maintenance Badge](https://img.shields.io/badge/Maintenance-No-red)
 
 ***
 
