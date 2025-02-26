@@ -6,8 +6,8 @@ This repository, created for archival purposes among others, will keep all the m
 # Current GameBanana Mods, WIP's, etc.:
 
 [![Show Lives and Disable TIME when Infinite](https://gamebanana.com/mods/embeddables/561987?type=large)](https://gamebanana.com/mods/561987)
-> ![Actual Version Badge](https://img.shields.io/badge/Version-1.2-green)
-> ![Mod Maintenance Badge](https://img.shields.io/badge/Maintenance-On%20Hold-yellow)
+> ![Actual Version Badge](https://img.shields.io/badge/Version-2.0-green)
+> ![Mod Maintenance Badge](https://img.shields.io/badge/Maintenance-Yes-green)
 > [![©](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](/Extras/CC/HUD/time-n-hud/CC.md) <!--Copyright was needed because a russian person tried to sell my mod. Sorry. You can still use it tho. Check the "License" tab on the mod page to see what you can do, can't do, among others.-->
 > [![GitHub Proyect](https://img.shields.io/badge/proyect-Todo-000000?logo=github&logoColor=ffffff)](https://github.com/users/Juani12ok/projects/3)
 
