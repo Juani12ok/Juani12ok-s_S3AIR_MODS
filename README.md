@@ -22,4 +22,4 @@ This repository, created for archival purposes among others, will keep all the m
 
 # Modified Mods:
 
-![PLACEHOLDER](https://raw.githubusercontent.com/Juani12ok/Non-Trash-Stuff/refs/heads/discord-and-gb/images.gamebanana.com/static/img/mascots/detective_alt.png) ERZ Flight
+[![PLACEHOLDER](https://raw.githubusercontent.com/Juani12ok/Non-Trash-Stuff/refs/heads/discord-and-gb/images.gamebanana.com/static/img/mascots/detective_alt.png) ERZ Flight](https://github.com/Juani12ok/Juani12ok-s_S3AIR_MODS/raw/refs/heads/main/erz_flight_normal.zip)
