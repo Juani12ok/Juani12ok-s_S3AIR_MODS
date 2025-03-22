@@ -1,6 +1,9 @@
 # Juani12ok-s_S3AIR_MODS
 This repository, created for archival purposes among others, will keep all the mods I'll make in case they get withheld or trashed. Here'll also be unpublished mods, alongside with modified mods, originally made from other people.
 
+> [!NOTE]
+> Mods like the ERZ Flight one are NOT made by me, just modified. Original Authors should've remaining in it's respective section on the [mod.json](#) file.
+
 ***
 
 # Current GameBanana Mods, WIP's, etc.:
